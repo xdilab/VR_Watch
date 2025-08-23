@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Circle -->
+    <item
+        android:width="480dp"
+        android:height="480dp"
+        android:gravity="center">
+        <shape
+            android:shape="oval">
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+
+    <!-- Image -->
+    <item
+        android:width="480dp"
+        android:height="480dp"
+        android:gravity="center">
+        <bitmap
+            android:src="@drawable/watch_face"
+            android:gravity="center|fill"
+            android:tileMode="disabled" />
+    </item>
+</layer-list>
+
