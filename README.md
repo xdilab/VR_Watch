@@ -310,7 +310,7 @@ Thanks to lab members and collaborators for feedback, testing, and system‑leve
 
 <!-- MARKDOWN LINKS -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/xdilab/Sundown_Watch.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/xdilab/VR_Watch.svg?style=for-the-badge
 [contributors-url]: https://github.com/xdilab/VR_Watch/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/xdilab/VR_Watch.svg?style=for-the-badge
 [issues-url]: https://github.com/xdilab/VR_Watch/issues
